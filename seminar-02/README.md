@@ -22,6 +22,7 @@ Instead of controllers, we can also use our hands. In this scene, we can see how
 
 * [Scene source code](https://github.com/jgbarah/aframe-playground/tree/master/seminar-02/basic_hands.html)
 * [View online](basic_hands.html)
+*  [View online Portadores Antorcha](basic_handsTorch.html)
 
 And once we can track hands gestures, we can use them to interact with the scene. For example, check out this demo of grabbing objects with our hands:
 
