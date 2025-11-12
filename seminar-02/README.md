@@ -21,8 +21,8 @@ We can also make the AR scene more real:
 Instead of controllers, we can also use our hands. In this scene, we can see how the Quest can model our hands in augmented reality, following the gestures we do with them:
 
 * [Scene source code](https://github.com/jgbarah/aframe-playground/tree/master/seminar-02/basic_hands.html)
-* [View online](basic_hands.html)
-*  [View online Portadores Antorcha](Basic_HandsTorch.html)
+* [*View online](basic_hands.html)
+* [*View online Portadores Antorcha](Basic_HandsTorch.html)
 
 And once we can track hands gestures, we can use them to interact with the scene. For example, check out this demo of grabbing objects with our hands:
 
